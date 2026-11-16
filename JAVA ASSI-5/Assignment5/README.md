@@ -1,5 +1,5 @@
 # Programming in Java – Assignment 5 (CO5)
-**Student:** T. Niranjan Kumar | **Register No.:** 192473007  
+**Student:** P. Bhanu prakash | **Register No.:** 192425263  
 **Java version:** Fill using `java -version` | **Total:** 50 marks
 
 ## Structure
