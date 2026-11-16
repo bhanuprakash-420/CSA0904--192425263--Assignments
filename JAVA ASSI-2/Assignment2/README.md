@@ -1,10 +1,9 @@
 # Programming in Java – Assignment 2 (CO2)
 
-**Student Name:** T. Niranjan Kumar  
-**Register Number:** 192473007  
+**Student Name:**P. Bhanu Prakash
+**Register Number:** 192425263 
 **Java Version:** JDK 8 or later  
-**Required repository name:** `CSA09-192473007-Assignment2`  
-**GitHub link:** Add your repository URL after creating it.
+
 
 ## Project contents
 - `Assignment_Report.md` – answers, design reasoning, complexity analysis and result tables for Q1–Q7.
