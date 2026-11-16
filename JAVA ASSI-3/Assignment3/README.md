@@ -1,7 +1,7 @@
 # Programming in Java – Assignment 3 (CO3)
 
-**Student:** T. Niranjan Kumar  
-**Register Number:** 192473007  
+**Student:** P. Bhanu Prakash 
+**Register Number:** 192425263 
 **Java version:** Fill in the version installed on your laptop (`java -version`)  
 **Course coverage:** Exception handling and multithreading  
 **Total marks:** 50
